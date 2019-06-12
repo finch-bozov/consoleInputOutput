@@ -1,0 +1,7 @@
+C:\Users\Finch\source\repos\inAndOutOfConsole\quadraticEquation\bin\Debug\quadraticEquation.exe.config
+C:\Users\Finch\source\repos\inAndOutOfConsole\quadraticEquation\bin\Debug\quadraticEquation.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\quadraticEquation\bin\Debug\quadraticEquation.pdb
+C:\Users\Finch\source\repos\inAndOutOfConsole\quadraticEquation\obj\Debug\06.quadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\quadraticEquation\obj\Debug\quadraticEquation.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\quadraticEquation\obj\Debug\quadraticEquation.pdb
+C:\Users\Finch\source\repos\inAndOutOfConsole\quadraticEquation\obj\Debug\06.quadraticEquation.csprojAssemblyReference.cache

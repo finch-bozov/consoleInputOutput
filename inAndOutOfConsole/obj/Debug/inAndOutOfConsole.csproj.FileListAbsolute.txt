@@ -1,0 +1,7 @@
+C:\Users\Finch\source\repos\inAndOutOfConsole\inAndOutOfConsole\bin\Debug\inAndOutOfConsole.exe.config
+C:\Users\Finch\source\repos\inAndOutOfConsole\inAndOutOfConsole\bin\Debug\inAndOutOfConsole.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\inAndOutOfConsole\bin\Debug\inAndOutOfConsole.pdb
+C:\Users\Finch\source\repos\inAndOutOfConsole\inAndOutOfConsole\obj\Debug\inAndOutOfConsole.csprojAssemblyReference.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\inAndOutOfConsole\obj\Debug\inAndOutOfConsole.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\inAndOutOfConsole\obj\Debug\inAndOutOfConsole.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\inAndOutOfConsole\obj\Debug\inAndOutOfConsole.pdb

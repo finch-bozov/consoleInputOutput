@@ -1,0 +1,6 @@
+C:\Users\Finch\source\repos\inAndOutOfConsole\companyInformation\bin\Debug\companyInformation.exe.config
+C:\Users\Finch\source\repos\inAndOutOfConsole\companyInformation\bin\Debug\companyInformation.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\companyInformation\bin\Debug\companyInformation.pdb
+C:\Users\Finch\source\repos\inAndOutOfConsole\companyInformation\obj\Debug\02.companyInformation.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\companyInformation\obj\Debug\companyInformation.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\companyInformation\obj\Debug\companyInformation.pdb

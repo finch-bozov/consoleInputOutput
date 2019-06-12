@@ -1,0 +1,6 @@
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfFiveNumbers\bin\Debug\sumOfFiveNumbers.exe.config
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfFiveNumbers\bin\Debug\sumOfFiveNumbers.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfFiveNumbers\bin\Debug\sumOfFiveNumbers.pdb
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfFiveNumbers\obj\Debug\sumOfFiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfFiveNumbers\obj\Debug\sumOfFiveNumbers.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfFiveNumbers\obj\Debug\sumOfFiveNumbers.pdb

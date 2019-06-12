@@ -1,0 +1,7 @@
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfThreeNumbers\bin\Debug\sumOfThreeNumbers.exe.config
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfThreeNumbers\bin\Debug\sumOfThreeNumbers.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfThreeNumbers\bin\Debug\sumOfThreeNumbers.pdb
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfThreeNumbers\obj\Debug\01.sumOfThreeNumbers.csprojAssemblyReference.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfThreeNumbers\obj\Debug\01.sumOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfThreeNumbers\obj\Debug\sumOfThreeNumbers.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfThreeNumbers\obj\Debug\sumOfThreeNumbers.pdb

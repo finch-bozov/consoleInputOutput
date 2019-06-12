@@ -1,0 +1,7 @@
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfNumbers\bin\Debug\sumOfNumbers.exe.config
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfNumbers\bin\Debug\sumOfNumbers.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfNumbers\bin\Debug\sumOfNumbers.pdb
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfNumbers\obj\Debug\09.sumOfNumbers.csprojAssemblyReference.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfNumbers\obj\Debug\09.sumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfNumbers\obj\Debug\sumOfNumbers.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\sumOfNumbers\obj\Debug\sumOfNumbers.pdb

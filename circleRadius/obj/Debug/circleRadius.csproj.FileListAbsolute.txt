@@ -1,0 +1,7 @@
+C:\Users\Finch\source\repos\inAndOutOfConsole\circleRadius\bin\Debug\circleRadius.exe.config
+C:\Users\Finch\source\repos\inAndOutOfConsole\circleRadius\bin\Debug\circleRadius.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\circleRadius\bin\Debug\circleRadius.pdb
+C:\Users\Finch\source\repos\inAndOutOfConsole\circleRadius\obj\Debug\circleRadius.csprojAssemblyReference.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\circleRadius\obj\Debug\circleRadius.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\inAndOutOfConsole\circleRadius\obj\Debug\circleRadius.exe
+C:\Users\Finch\source\repos\inAndOutOfConsole\circleRadius\obj\Debug\circleRadius.pdb
